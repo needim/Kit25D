@@ -3,6 +3,9 @@
     <img src="https://raw.githubusercontent.com/needim/Kit25D/master/previews/1200x630.jpg">
 </p>
 
+https://www.youtube.com/watch?v=jAVQGz3MJ1E
+
+
 Basically, It allows you to create a fake 3D world with 2D colliders and sprites. I have to say, it has a lot of tricks to do that. If you wanna use this kit, sometimes you have to twist your brain a little bit. The kit heavily depends on sprite masks (for shadow) & sprite pivots (for sorting). And while you are preparing your prefabs, you can have some hard time.
 
 # Features
