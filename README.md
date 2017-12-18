@@ -1,4 +1,7 @@
 # What's the Kit25D?
+<p align="center">
+    <img src="https://raw.githubusercontent.com/needim/Kit25D/master/previews/1200x630.jpg">
+</p>
 
 Basically, It allows you to create a fake 3D world with 2D colliders and sprites. I have to say, it has a lot of tricks to do that. If you wanna use this kit, sometimes you have to twist your brain a little bit. The kit heavily depends on sprite masks (for shadow) & sprite pivots (for sorting). And while you are preparing your prefabs, you can have some hard time.
 
@@ -16,5 +19,5 @@ Basically, It allows you to create a fake 3D world with 2D colliders and sprites
 ## Recommended Settings
 
 - Project Settings -> Time -> **Fixed Timestamp** = **0.01**
-- Add Layers ( **Obstacle** )
-- Add Tags ( **LevelBounds** , **JumpBlocker** )
+- Add Layers (**Obstacle**)
+- Add Tags (**LevelBounds**, **JumpBlocker**)
